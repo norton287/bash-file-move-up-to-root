@@ -14,26 +14,42 @@ Imagine your photos are organized like this:
 Use code with caution.
 
 Photos/
+
 ├── Vacation 2023/
+
 │   ├── Beach Day/
+
 │   │   ├── IMG_1234.jpg
+
 │   │   └── IMG_1235.jpg
+
 │   └── City Tour/
+
 │       ├── IMG_1236.jpg
+
 │       └── IMG_1237.jpg
+
 └── Family Reunion/
+
 ├── IMG_1238.jpg
+
 └── IMG_1239.jpg
 
 
 After running the script, they'll all be in one place:
 
 Photos/
+
 ├── IMG_1234.jpg
+
 ├── IMG_1235.jpg
+
 ├── IMG_1236.jpg
+
 ├── IMG_1237.jpg
+
 ├── IMG_1238.jpg
+
 └── IMG_1239.jpg
 
 
