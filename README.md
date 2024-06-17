@@ -3,8 +3,8 @@
    - Update the `root_dir` variable to the path of your choosing (if applicable)
 3. **Permissions (Important!):**
    - **Make It Executable:**
-      - Make sure to do a chmod +x moveup.sh
-         ```
+      - Make sure to do a
+         ``chmod +x moveup.sh``
 4. **Run:**  Place the script in your /usr/bin or in a place that is in your path, and execute it.
 
 ## Example: Taming Your Photo Collection 📸
